@@ -1,0 +1,6 @@
+name: Mr.Milu Tests Helper
+description: Makes developers life easier providing some helper methods and base classes for testing.
+package: Mr. Milú
+version: 1.0.0
+type: module
+core: 8.x

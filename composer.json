@@ -1,0 +1,5 @@
+{
+ "name": "mrmilu/mrmilu_tests_helper",
+ "description": "Provides some helper base classes to use along your tests",
+ "type": "drupal-mrmilu-module"
+}
