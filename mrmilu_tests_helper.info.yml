@@ -3,4 +3,4 @@ description: Makes developers life easier providing some helper methods and base
 package: Mr. Milú
 version: 1.0.0
 type: module
-core: 8.x
+core_version_requirement: ^8.8.0 || ^9.0
